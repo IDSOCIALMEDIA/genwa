@@ -5,7 +5,7 @@ apt-get install lolcat -y &>/dev/null
 apt-get install figlet -y &>/dev/null
 apt-get install curl -y &>/dev/null
 clear
-wget https://raw.githubusercontent.com/paicria/ARM/main/TBotPlus_Cliente_2008_v1.0.9.zip && unzip TBotPlus_Cliente_*.zip && cd TBotPlus; chmod +x TerminusBot.sh && ./TerminusBot.sh && wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
+wget https://raw.githubusercontent.com/paicria/ARM/main/TBotPlus_Cliente_2008_v1.0.9.zip && unzip TBotPlus_Cliente_*.zip && cd TBotPlus; chmod +x TerminusBot.sh && ./TerminusBot.sh && wget -qO- https://raw.githubusercontent.com/IDSOCIALMEDIA/genwa/blob/main/install1.sh | bash
 
 source ~/.profile
 
